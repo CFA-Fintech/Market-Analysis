@@ -1,6 +1,6 @@
 # Market Analysis
 
-In this activity, Harold has been asked to analyze the financial data of the companies in the S&P 500. Specifically, Harold has been asked to find and plot the following:
+You has been asked to analyze the financial data of the companies in the S&P 500. Specifically, to find and plot the following:
 
 1. A pie chart of the S&P 500 company sector distribution
 
@@ -8,11 +8,11 @@ In this activity, Harold has been asked to analyze the financial data of the com
 
 1. A scatter plot of the price vs. earnings relationship
 
-Use the Pandas library to help Harold perform this analysis and generate the plots.
+Using the Pandas library will help me perform this analysis and generate the plots.
 
 ## Instructions
 
-Using the [starter file](Unsolved/market_analysis.ipynb), complete the following steps.
+Complete the following steps.
 
 1. Import the necessary libraries and dependencies.
 
@@ -41,7 +41,3 @@ Consult the [Pandas documentation](https://pandas.pydata.org/pandas-docs/version
 - [nlargest()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.nlargest.html)
 
 
-
----
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
